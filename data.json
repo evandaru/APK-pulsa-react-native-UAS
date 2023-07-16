@@ -1,0 +1,78 @@
+{
+    "kategori": [
+        {
+            "id": 1,
+            "nama": "5.000",
+            "harga": "Rp.6.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "id": 2,
+            "nama": "10.000",
+            "harga": "Rp.11.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "id": 3,
+            "nama": "15.000",
+            "harga": "Rp.16.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "id": 4,
+            "nama": "25.000",
+            "harga": "Rp.26.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "id": 5,
+            "nama": "30.000",
+            "harga": "Rp.31.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "id": 6,
+            "nama": "50.000",
+            "harga": "Rp.51.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "id": 7,
+            "nama": "100.000",
+            "harga": "Rp.101.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        },
+        {
+            "id": 8,
+            "nama": "150.000",
+            "harga": "Rp.151.000",
+            "rating": "⭐⭐⭐⭐⭐"
+        }
+    ],
+    "kuotaData": [
+        {
+            "id": 101,
+            "namaPaket": "Paket Super",
+            "isiPaket": "100TB + 1GB Kuota malam",
+            "hargaPaket": "Rp. 50.000"
+        },
+        {
+            "id": 2,
+            "namaPaket": "Paket Super",
+            "isiPaket": "100TB + 1GB Kuota malam",
+            "hargaPaket": "Rp. 50.000"
+        },
+        {
+            "id": 23,
+            "namaPaket": "Paket Super",
+            "isiPaket": "100TB + 1GB Kuota malam",
+            "hargaPaket": "Rp. 50.000"
+        },
+        {
+            "id": 24,
+            "namaPaket": "Paket Super",
+            "isiPaket": "100TB + 1GB Kuota malam",
+            "hargaPaket": "Rp. 50.000"
+        }
+    ]
+}
