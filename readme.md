@@ -23,6 +23,13 @@ abis tu...
 install expo CLI dulu, caranya yaaa carii sendirii huuu manjaaaa...
 
 udah zaman chatgpt...
+hikss😭😭😭😭
+
+dah lah kasian amat ni anakk...
+
+```
+npm i expo-cli -g
+```
 
 trus di cek apakah udah keinstall
 
