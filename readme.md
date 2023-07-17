@@ -12,7 +12,7 @@ trus
  yarn expo start
 ```
 
-buat jalaninnya 
+buat jalaninnya
 
 oh ya btw ini gw pake expo ya biar gk suloyo pas installasinya XD
 
@@ -54,9 +54,14 @@ expo whoami
 
 ![1689526744587](image/readme/1689526744587.png)
 
-nahh trus buat satu file namnya `eas.json ` truss copass ini...
+nahh trus buat satu file namnya `eas.json `
+
+![1689561910949](image/readme/1689561910949.png)
+
+truss copass ini...
 
 ```
+
 {
   "build": {
     "preview": {
@@ -76,7 +81,6 @@ nahh trus buat satu file namnya `eas.json ` truss copass ini...
   }
 }
 ```
-
 
 # lastttt
 
